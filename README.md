@@ -18,3 +18,10 @@ The dataset, sourced from Kaggle, comprises information on 10,000 books and 53,4
    
 **4. Conclusion**     
 The project implemented two methods for book recommendations, incorporating results from various filters. For new users, top 10 most popular books are recommended. For existing users, personalized recommendations are provided based on reading history. While the system demonstrated effectiveness in recommending books, it faces limitations, notably computational time with the A-Priori algorithm, which could be mitigated with optimization techniques like hash tables.
+      
+   
+**Authors of this project**          
+Xindi Wu - s225521     
+Ke Yang - s212495     
+Karthikraja Karunakaran - s220062   
+Yuxuan Zhang - s212626
